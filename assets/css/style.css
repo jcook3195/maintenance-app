@@ -1,0 +1,11 @@
+
+/* Add extra padding to top and bottom of main content */
+.container.main-content {
+  padding: 36px 0;
+}
+
+
+/* Override double hamburger icons */
+.fa-bars:before {
+  content: none !important;
+}
